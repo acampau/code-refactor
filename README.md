@@ -34,4 +34,4 @@
 <h2>Screenshot</h2>
 <img
         src="./assets/images/Horiseon-Screenshot.png"
-        alt="screenshot mock-up"
+        alt="screenshot mock-up"/>
